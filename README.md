@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2025/tree/master/1227-number-of-equivalent-domino-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0806-domino-and-tromino-tiling](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2025/tree/master/0806-domino-and-tromino-tiling) |
 <!---LeetCode Topics End-->
