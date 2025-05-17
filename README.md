@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2025/tree/master/0075-sort-colors) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2025/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2025/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2025/tree/master/1293-three-consecutive-odds) |
@@ -87,9 +88,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2025/tree/master/0075-sort-colors) |
 | [2215-finding-3-digit-even-numbers](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2025/tree/master/2215-finding-3-digit-even-numbers) |
 ## Enumeration
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2025/tree/master/2215-finding-3-digit-even-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2025/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
