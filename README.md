@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2025/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2025/tree/master/0075-sort-colors) |
+| [0945-snakes-and-ladders](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2025/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2025/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2025/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2025/tree/master/1293-three-consecutive-odds) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2025/tree/master/0073-set-matrix-zeroes) |
+| [0945-snakes-and-ladders](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2025/tree/master/0945-snakes-and-ladders) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2025/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2025/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0945-snakes-and-ladders](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2025/tree/master/0945-snakes-and-ladders) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2025/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2025/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 <!---LeetCode Topics End-->
